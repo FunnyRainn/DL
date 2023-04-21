@@ -1,0 +1,2 @@
+rf_df = pd.read_csv('.\data\集成学习dataset.csv')
+rf_df.head(10)
